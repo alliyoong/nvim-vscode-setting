@@ -28,6 +28,8 @@ call plug#begin()
   if exists('g:vscode')
     " Easy motion for VSCode
     Plug 'asvetliakov/vim-easymotion'
+    Plug 'tpope/vim-surround'
+    " Plug 'mg979/vim-visual-multi', {'branch': 'master'}
   else
 
     " Sneak

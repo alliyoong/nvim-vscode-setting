@@ -15,8 +15,8 @@ source C:/Users/Admin/AppData/Local/nvim/plug-config/multicursor.vim
 
 if exists('g:vscode')
   " VS Code extension
-  source C:/Users/Admin/AppData/Local/nvim/vim-plug/plugins.vim
+  " source C:/Users/Admin/AppData/Local/nvim/vim-plug/plugins.vim
   source C:/Users/Admin/AppData/Local/nvim/vscode/settings.vim
   source C:/Users/Admin/AppData/Local/nvim/plug-config/easymotion.vim
-  source C:/Users/Admin/AppData/Local/nvim/plug-config/multicursor.vim
+  " source C:/Users/Admin/AppData/Local/nvim/plug-config/multicursor.vim
 endif
